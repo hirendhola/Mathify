@@ -16,7 +16,7 @@ Mathify is a sleek and minimalistic web-based calculator designed to simplify yo
 
 ### Try It Out:
 
-Visit the [live demo]() to experience Mathify in action.
+Visit the [live demo](https://hirendhola.github.io/Mathify/) to experience Mathify in action.
 
 ### Usage:
 
